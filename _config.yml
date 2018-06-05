@@ -4,8 +4,6 @@ markdown: kramdown
 permalink: none
 plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
-port: 4000
-
 sass:
   sass_dir: assets/css
   style: :nested
@@ -16,3 +14,4 @@ title:		           "Portfolio Jekyll Theme"
 description:	       "Powered by Jekyll and GitHub Pages"
 author:              "Paul Le"
 baseurl: "/portfolio-jekyll-theme"
+url: ""
